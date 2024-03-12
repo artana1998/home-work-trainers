@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john@example.com",
+    "isCurrentlyTeaching": true,
+    "timeEmployed": "6 months",
+    "coursesFinished": 5
+  },
+  {
+    "id": "2",
+    "firstName": "artan",
+    "lastName": "aliu",
+    "email": "jane@example.com",
+    "isCurrentlyTeaching": false,
+    "timeEmployed": "1 year 3 months",
+    "coursesFinished": 8
+  }
+]
